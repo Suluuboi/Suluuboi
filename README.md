@@ -2,7 +2,7 @@
 - 👀 I’m interested in App developments of all kinds
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on React Native projects
-- 📫 How to reach me ...
+- 📫 How to reach me @email -> hansmbangu@gmail.com
 
 <!---
 Suluuboi/Suluuboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
